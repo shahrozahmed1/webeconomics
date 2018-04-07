@@ -17,5 +17,10 @@
             <artifactId>opencsv</artifactId>
             <version>4.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.github.sh0nk</groupId>
+            <artifactId>matplotlib4j</artifactId>
+            <version>0.3.0</version>
+        </dependency>
      </dependencies>
 </project>
